@@ -4,7 +4,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-              /*
+        /*
             배우기 쉬운 객체지향 언어
             자동 메모리 관리 / 메모리 사용 후 반환 해 주어야 함
             가비지 컬렉터 GC
