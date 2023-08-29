@@ -4,7 +4,7 @@ public class 제어자Ex1 {
     public static void main(String[] args) {
         /*
             제어자(modifier)
-                : 클래스와 클래스의 멤버9멤버 변수, 메서드)에 부가적인 의미 부여
+                : 클래스와 클래스의 멤버(멤버 변수, 메서드)에 부가적인 의미 부여
 
                 접근제어자 : public, protected, (default), private
                 그 외 : static, final, abstract, native, transient, synchronized, volatile, strictfp
@@ -26,7 +26,7 @@ public class 제어자Ex1 {
 
             abstract - 추상의, 미완성의
                 클래스 : 클래스 내에 추상 메서드가 선언되어 있음을 의미한다.
-                메서드 : 선언부만 작성하ㅏ고 구현부는 작성하지 않은 추상 메서드임을 알린다.
+                메서드 : 선언부만 작성하고 구현부는 작성하지 않은 추상 메서드임을 알린다.
         */
     }
 }
